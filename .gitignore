@@ -1,0 +1,9 @@
+#Allgemeine Dateien, die ignoriert werden sollen (General files to ignore)
+#Godot interne Cache und generierte Datein (Godot internal cache and generated files)
+.godot/
+#Exportierte/Binäre Dateien (Exported/Binary files)
+*.exe # Die wildcard * ist zwingend nötig
+*.zip
+*.dmg
+# Mac System-Dateien (Mac system files)
+.DS_Store
